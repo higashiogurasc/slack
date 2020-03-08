@@ -1,9 +1,13 @@
 # 東小倉サッカークラブSlack運用について
+
 更新日　2020年3月9日  
 
-URL  ***[my.slack.com](https://my.slack.com)***  
-＊クラブ関係者の方で参加招待を受けていない方はご連絡をお願いします。
-
+    クラブ内での連絡用にSlackを用いて連絡を行います。  
+    ※クラブ関係者の方で参加招待を受けていない方はご連絡をお願いします。
+    
+  URL  [my.slack.com](https://my.slack.com)
+  
+---
 ## Slackの使い方
   下記、公式サイトをご参照ください
   > 1. ヘルプセンター　[slack.com/intl/ja-jp/helpslack.com/intl/ja-jp/help](https://slack.com/intl/ja-jp/help)
