@@ -1,7 +1,7 @@
 # 東小倉サッカークラブSlack運用について
 ## Slackの使い方
   公式サイトをご参照ください
-  > 1. ヘルプセンター　[slack.com/intl/ja-jp/helpslack.com/intl/ja-jp/help](https:://slack.com/intl/ja-jp/helpslack.com/intl/ja-jp/help)
+  > 1. ヘルプセンター　[slack.com/intl/ja-jp/helpslack.com/intl/ja-jp/help](https://slack.com/intl/ja-jp/help)
   > 2. Slack はじめてガイド　[slack.com/intl/ja-jp/help/categories/360000049043](https://slack.com/intl/ja-jp/help/categories/360000049043)  
   > 3. Slack の使い方　[slack.com/intl/ja-jp/help/categories/200111606](https://slack.com/intl/ja-jp/help/categories/200111606)  
 ---
